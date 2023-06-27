@@ -1,0 +1,13 @@
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(188, 184, 184);
+    margin: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+  }
+  .count {
+      margin: 10px;
+  }
